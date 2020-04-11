@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>onesupercoder</title>
-    <link>http://example.org/</link>
+    <link>https://onesupercoder.github.io/</link>
     <description>Recent content on onesupercoder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2020 Copyright Jared Dobson</copyright>
     <lastBuildDate>Fri, 19 Apr 2019 21:37:58 +0530</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://onesupercoder.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My Idea for quickset</title>
-      <link>http://example.org/posts/my-idea-for-quick-set/</link>
+      <link>https://onesupercoder.github.io/posts/my-idea-for-quick-set/</link>
       <pubDate>Sat, 11 Apr 2020 02:02:58 -0600</pubDate>
       
-      <guid>http://example.org/posts/my-idea-for-quick-set/</guid>
+      <guid>https://onesupercoder.github.io/posts/my-idea-for-quick-set/</guid>
       <description>.__ __ __ ________ __|__| ____ | | __ ______ _____/ |_ / ____/ | \  |/ ___\| |/ / / ___// __ \  __\ &amp;lt; &amp;lt;_| | | / \  \___| &amp;lt; \___ \\ ___/| | \__ |____/|__|\___ &amp;gt;__|_ \/____ &amp;gt;\___ &amp;gt;__| |__| \/ \/ \/ \/  I&amp;rsquo;m an updater. I like to keep my system up to date. I like to update the OS, my programming language and my dependencies.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>https://onesupercoder.github.io/about/</link>
       <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://onesupercoder.github.io/about/</guid>
       <description>This is some static page where you can write about yourself.</description>
     </item>
     
