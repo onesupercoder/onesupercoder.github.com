@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2020 Copyright Jared Dobson</copyright>
-    <lastBuildDate>Sat, 11 Apr 2020 02:02:58 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2020 14:03:06 -0600</lastBuildDate>
     
 	<atom:link href="https://onesupercoder.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Install Graalvm EE  with SDKMAN and Set It Up for Inttellij</title>
+      <link>https://onesupercoder.github.io/posts/install-graalvm-ee-and-set-it-up-for-inttellij/</link>
+      <pubDate>Sun, 12 Apr 2020 14:03:06 -0600</pubDate>
+      
+      <guid>https://onesupercoder.github.io/posts/install-graalvm-ee-and-set-it-up-for-inttellij/</guid>
+      <description>To download GraalVM EE Navigate to: https://www.oracle.com/technetwork/graalvm/downloads/index.html
+Select the Java Version and the Operating System. You&amp;rsquo;ll have to create a free Oracle Account if you don&amp;rsquo;t have one already here: https://profile.oracle.com/myprofile/account/create-account.jspx
+Once downloaded you&amp;rsquo;ll need to extract to a location. If you&amp;rsquo;re using SDKMAN then I would recommend you extract it to a location in ~/.sdkman/candidates/java/[VERSION] replace with your downloaded version. Mine is 20.0.0.r11.ee. R11 being the jave version or use R8, R14 for Java 8 and Java 14.</description>
+    </item>
     
     <item>
       <title>My Idea for quickset</title>
