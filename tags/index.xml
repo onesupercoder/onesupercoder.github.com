@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on onesupercoder</title>
-    <link>https://onesupercoder.github.io/tags/</link>
+    <link>https://www.onesupercoder.com/tags/</link>
     <description>Recent content in Tags on onesupercoder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©2020 Copyright Jared Dobson</copyright>
     <lastBuildDate>Sat, 11 Apr 2020 02:02:58 -0600</lastBuildDate>
     
-	<atom:link href="https://onesupercoder.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.onesupercoder.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>projects</title>
-      <link>https://onesupercoder.github.io/tags/projects/</link>
+      <link>https://www.onesupercoder.com/tags/projects/</link>
       <pubDate>Sat, 11 Apr 2020 02:02:58 -0600</pubDate>
       
-      <guid>https://onesupercoder.github.io/tags/projects/</guid>
+      <guid>https://www.onesupercoder.com/tags/projects/</guid>
       <description></description>
     </item>
     
